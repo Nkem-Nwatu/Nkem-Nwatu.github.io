@@ -1,0 +1,13 @@
+month,service_area,tickets,sla_met_pct,csat_pct,avg_resolution_hours
+2026-01,Service Desk,420,91,82,18.4
+2026-02,Service Desk,455,92,83,17.8
+2026-03,Service Desk,438,93,84,16.9
+2026-04,Service Desk,470,94,85,16.2
+2026-05,Service Desk,462,95,86,15.6
+2026-06,Service Desk,451,95,87,15.1
+2026-01,IT Support,280,89,78,21.1
+2026-02,IT Support,295,90,79,20.3
+2026-03,IT Support,310,91,81,19.4
+2026-04,IT Support,302,92,82,18.8
+2026-05,IT Support,288,93,84,17.6
+2026-06,IT Support,275,94,85,16.8
